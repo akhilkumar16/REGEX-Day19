@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.exe
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.deps.json
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.dll
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\bin\Debug\netcoreapp3.1\RegexProject.pdb
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.dll
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.pdb
+C:\Users\Kranthi\Desktop\Practice\RegexProject\RegexProject\obj\Debug\netcoreapp3.1\RegexProject.genruntimeconfig.cache
